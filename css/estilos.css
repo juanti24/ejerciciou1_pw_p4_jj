@@ -1,0 +1,39 @@
+#test {
+    background-color: white;
+    text-align: center;
+}
+.tabla {
+  
+    display: grid;
+    justify-items: inherit;
+    width: 200px;
+    height: 450px;
+    margin:auto;
+    
+}
+
+#mnsj {
+    background-color: blue;
+    color: white;
+    border-style: solid;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.correcta {
+    color: yellow;
+}
+
+.incorrecta {
+    color: red;
+}
+
+.reinicie {
+    color: black;
+}
+
+button{
+    background-color: blanchedalmond;
+    margin-bottom: 1em;
+}
+
